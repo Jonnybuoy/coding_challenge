@@ -1,6 +1,6 @@
 # Coding Challenge - Python
 
-This is a coding challenge that writes an algorithm that given an M X N  matrix, returns all numbers that are the maximum value in its row but the minimum in its column.
+This is a coding challenge that writes an algorithm that given an M X N  matrix, returns all numbers that are the maximum value in its row but the minimum in its column. The time complexity of the algorithm is O(m * n) because it has two nested loops. The outer loop iterates m times, and the inner loop iterates n times. Hence, the total number of iterations is m * n.
 
 ## Prerequisites
 
